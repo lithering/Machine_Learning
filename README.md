@@ -1,2 +1,3 @@
 # Machine_Learning
-Coursera_DeepLearning.ai
+by Andrew NG @Coursera
+[Course Home](http://www.coursera.org/learn/machine-learning/home/welcome)
